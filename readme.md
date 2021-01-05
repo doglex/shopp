@@ -4,6 +4,7 @@
 + sentry错误日志和告警
 + xadmin
 + Serializer
++ jwt登录
 
 
 # 开发中常见问题
@@ -12,10 +13,10 @@
 + api文档管理问题
 + url增多难维护
 + 接口更新而文档不更新，不知道怎么测试
-+ 反爬限制频率
++ 反爬限制频率 ： 
 + 缓存加速访问
 + 调试支付 
-+ 调试第三方登录
++ 调试第三方登录： social django
 
 
 # Vue开发环境
@@ -56,5 +57,14 @@
 + post/get/put/delete操作
 + 面向资源
 + 数据描述简单，用json 
+
+
+# vue
++ 前端工程化 :webpack
++ 数据双向绑定 :mvvm
++ 组件化开发
++ vue,vuex, vue-router, axios 
++ ES6, babel 
+
 
 
